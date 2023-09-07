@@ -11,20 +11,21 @@ public class Programa05 {
     
     public static void main(String[] args) {
         
-        Scanner entrada = new Scanner(System.in);
-        for (int cont = 0; cont < 5; cont++) {
-            System.out.println("Informe uma nota: ");
-            int nota = entrada.nextInt();
+        try (Scanner entrada = new Scanner(System.in)) {
+            for (int cont = 0; cont < 5; cont++) {
+                System.out.println("Informe uma nota: ");
+                int nota = entrada.nextInt();
 
-            if (nota < 0 || nota > 10) {
-                System.out.println("Nota inválida!");
-                continue;
-            }
+                if (nota < 0 || nota > 10) {
+                    System.out.println("Nota inválida!");
+                    continue;
+                }
 
-            if (nota >= 7) {
-                System.out.println("Aprovado!");
-            } else {
-                System.out.println("Reprovado!");
+                if (nota >= 7) {
+                    System.out.println("Aprovado!");
+                } else {
+                    System.out.println("Reprovado!");
+                }
             }
         }
     }
