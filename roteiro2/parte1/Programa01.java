@@ -1,3 +1,9 @@
+/*
+* 1 – Crie o pacote roteiro2.parte1 com a classe Programa01 conforme o código abaixo.
+* Observe que existem algumas variáveis declaradas com os tipos mais utilizados.
+* Veja que uma das variáveis está sendo exibido em tela. Faça testes com as outras variáveis.
+*/
+
 package roteiro2.parte1;
 
 public class Programa01 {
