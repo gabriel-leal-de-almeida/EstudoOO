@@ -1,8 +1,8 @@
 /*
- * 3 – Supondo agora que o input de notas não tenha uma quantidade definida e dependa de um flag.
- * Ou seja, o usuário precisaria indicar algum valor que encerre o input de notas (exemplo flag = -1).
- * Crie uma classe Programa06 no mesmo pacote como uma proposta para esta situação.
- */
+* 3 – Supondo agora que o input de notas não tenha uma quantidade definida e dependa de um flag.
+* Ou seja, o usuário precisaria indicar algum valor que encerre o input de notas (exemplo flag = -1).
+* Crie uma classe Programa06 no mesmo pacote como uma proposta para esta situação.
+*/
 
 package roteiro2.parte3;
 

@@ -1,8 +1,8 @@
 /*
- * 4 – Ainda no mesmo pacote crie a classe Programa07 idêntico ao Programa06, e faça com que o programa apresente a média das notas que foram inseridas.
- * Atenção para o resultado que deve ser apresentado
- * (Exemplo : Se metade das notas inseridas tem o valor 7 e a outra metade tem o valor 8, a média esperada é 7,5).
- */
+* 4 – Ainda no mesmo pacote crie a classe Programa07 idêntico ao Programa06, e faça com que o programa apresente a média das notas que foram inseridas.
+* Atenção para o resultado que deve ser apresentado
+* (Exemplo : Se metade das notas inseridas tem o valor 7 e a outra metade tem o valor 8, a média esperada é 7,5).
+*/
 
 
 package roteiro2.parte3;

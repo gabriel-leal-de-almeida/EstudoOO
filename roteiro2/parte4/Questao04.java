@@ -1,7 +1,7 @@
 /*
- * 4 – Utilizando a classe Programa07 implementado no pacote roteiro2.parte3, seria possível implementar uma solução que apresentasse não somente a média, mas quantas notas ficaram acima da média?
- * Sim? Não? Como? Por quê?
- */
+* 4 – Utilizando a classe Programa07 implementado no pacote roteiro2.parte3, seria possível implementar uma solução que apresentasse não somente a média, mas quantas notas ficaram acima da média?
+* Sim? Não? Como? Por quê?
+*/
 
 package roteiro2.parte4;
 

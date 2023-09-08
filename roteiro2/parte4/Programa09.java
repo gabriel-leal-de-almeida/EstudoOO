@@ -1,8 +1,8 @@
 /*
- * 3 – Crie uma nova classe Programa09 idêntica ou Programa08, e implemente uma solução que armazene no vetor apenas notas consideradas válidas.
- * Ou seja, notas inseridas com o valor de 0 a 10. Caso não seja uma nota válida, o programa deve informar que a nota é inválida, e não deve armazenar esta nota.
- * Atenção : O programa também deve garantir que todo o vetor será preenchido com notas válidas.
- */
+* 3 – Crie uma nova classe Programa09 idêntica ou Programa08, e implemente uma solução que armazene no vetor apenas notas consideradas válidas.
+* Ou seja, notas inseridas com o valor de 0 a 10. Caso não seja uma nota válida, o programa deve informar que a nota é inválida, e não deve armazenar esta nota.
+* Atenção : O programa também deve garantir que todo o vetor será preenchido com notas válidas.
+*/
 
 package roteiro2.parte4;
 

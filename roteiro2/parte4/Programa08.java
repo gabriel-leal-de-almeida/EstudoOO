@@ -1,8 +1,8 @@
 /*
- * 1 – Crie o pacote roteiro2.parte4 com a classe Programa08 conforme o código abaixo e analise e teste o que foi implementado.
- * 2 – Ainda na classe Programa08, depois do laço de repetição já existente, implemente um novo laço de repetição apenas para exibir os valores armazenados no vetor.
- * Verifique se as notas exibidas estão corretas.
- */
+* 1 – Crie o pacote roteiro2.parte4 com a classe Programa08 conforme o código abaixo e analise e teste o que foi implementado.
+* 2 – Ainda na classe Programa08, depois do laço de repetição já existente, implemente um novo laço de repetição apenas para exibir os valores armazenados no vetor.
+* Verifique se as notas exibidas estão corretas.
+*/
 
 package roteiro2.parte4;
 
