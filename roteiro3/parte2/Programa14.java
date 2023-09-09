@@ -1,3 +1,9 @@
+/*
+ * 2 – Observe que no Programa13 as funções de soma, subtração, multiplicação e divisão, foram criadas com o retorno “void”.
+ * Ou seja, são funções que não geram resultado de retorno para quem as chama.
+ * Crie uma classe Programa14 idêntico ao Programa13, de forma que as funções de soma, subtração, multiplicação e divisão gerem o retorno para a função main, e que o resultado da operação seja apresentado na função main (output) .
+ */
+
 package roteiro3.parte2;
 
 import java.util.Scanner;
