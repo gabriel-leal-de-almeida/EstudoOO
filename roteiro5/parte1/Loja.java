@@ -19,6 +19,19 @@ Observe que no código abaixo utilizamos a palavra reservada this para acessar o
 
 Neste caso, o this também foi útil para diferenciar as variáveis recebidas como parâmetro no construtor, dos atributos da classe 
 
+4 – Precisamos testar o funcionamento da classe Loja. crie na classe Principal o objeto loja01 e faça os devidos testes.
+
+Observe que alguns atributos não foram passados no construtor. O que acontece quando exibimos os dados da loja01 ? Atenção para valores null.
+
+5 -  No momento do cadastro da loja nem sempre é possível ter as 3 informações do construtor (Nome de Fantasia, Razão Social e CNPJ). Na maioria das vezes o usuário possui apenas o Nome de Fantasia e o CNPJ.  Desta forma, definimos a seguinte regra de negócio : Sempre que não tivermos a Razão Social, iremos preencher este atributo com o Nome de Fantasia.  
+
+Trata-se de um problema relativamente simples de resolver, basta testar o parâmetro razaoSocial no construtor da classe Loja
+
+
+6 – Para testar a solução criamos 2 objetos do tipo Loja na classe Principal (loja01 e loja02). A loja02 não tem a Razão Social. Ao imprimir os dados das duas lojas, tivemos o resultado esperado ? A solução implementada no item 5 resolveu o problema ? 
+
+R: Sim, tivemos o resultado esperado. A solução implementada no item 5 resolveu o problema.
+
 */
 
 package roteiro5.parte1;
