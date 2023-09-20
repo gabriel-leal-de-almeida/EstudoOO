@@ -28,6 +28,10 @@ public class Principal {
         System.out.println("Hora de inicio: " + lig01.getHoraInicio());
         System.out.println("Hora de fim: " + lig01.getHoraFim());
 
+        System.out.println("Numero 121212 faz parte da ligacao? " + lig01.verificaNumero("121212"));
+        System.out.println("Numero 565656 faz parte da ligacao? " + lig01.verificaNumero("565656"));
+        System.out.println("Numero 121213 faz parte da ligacao? " + lig01.verificaNumero("121213"));
+
         lig01.setHoraFim(new Tempo(10, 20, 30));
 
         System.out.println("Hora de fim: " + lig01.getHoraFim());
